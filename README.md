@@ -6,12 +6,11 @@ NRP: `isi nrp disini`
 
 ## Deskripsi Tugas
 
-Implementasikan Flow chart berikut untuk Main Class:
+
+### Implementasikan Flow chart berikut untuk Main Class:
 ![](img/1.png)
 
-
-
-Dengan ketentuan:
+### Dengan ketentuan:
 ![](img/UML.png)
 
 ## Contoh:
