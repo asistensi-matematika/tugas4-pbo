@@ -7,6 +7,7 @@ NRP: `isi nrp disini`
 ## Deskripsi Tugas
 
 Implementasikan Flow chart berikut untuk Main Class:
+
 ![](pic/1.png)
 
 Dengan ketentuan:
@@ -22,7 +23,7 @@ Dengan ketentuan:
 ![](pic/con3b.png)
 
 ## Soal
- Markup : 
+ 
  1. Jenis bangun datar adalah persegi dengan sisi 10 cm
           
 2. Jenis bangun datar adalah lingkaran dengan jari 20 cm
