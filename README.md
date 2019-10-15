@@ -8,7 +8,7 @@ NRP: `isi nrp disini`
 
 
 ### Implementasikan Flow chart berikut untuk Main Class:
-![](img/1.png)
+![](img/flow.png)
 
 ### Dengan ketentuan:
 ![](img/UML.png)
